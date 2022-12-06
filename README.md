@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @reinier
-- 👀 I’m interested in cooking, reading, creating, designing, learning, breating
+- 👀 I’m interested in cooking, reading, creating, designing, learning, breathing
 - 🌱 I’m currently learning to live like a human being
 
 <!---
